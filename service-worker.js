@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a65b5bcd4784dccd18c3ad165a0aff74.js"
+  "/precache-manifest.f584f375775262d4de0bcbe5f3b59b4d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "turkish-makams"});

@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22d7d664122cd6454bac",
-    "url": "/css/app.33a44feb.css"
+    "revision": "28643fad89777f2b9ce8",
+    "url": "/css/app.2481cd01.css"
   },
   {
     "revision": "d5b94854302a600e1a014d1fa0ba4a85",
@@ -124,12 +124,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/suzi-dil.1d2326fa.png"
   },
   {
-    "revision": "b0327d9ff280dc15db8329001efd75ca",
+    "revision": "aeacd20bec80596a290f12462a120706",
     "url": "/index.html"
   },
   {
-    "revision": "22d7d664122cd6454bac",
-    "url": "/js/app.ec127d75.js"
+    "revision": "28643fad89777f2b9ce8",
+    "url": "/js/app.c5366404.js"
   },
   {
     "revision": "272049fc1c40f4915656",
